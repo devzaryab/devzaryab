@@ -7,10 +7,10 @@ With experience 8+ years of web and app development, I can work in design and de
 <br />
 Here are the skills I'm specialized in the most:
 
+- PHP, Laravel, Codeigniter, Symphony, YII: 7 years
 - React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Gastsby, Next.JS: 8 years
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 7 years
 - Angular, Material, NgRX, RxJS, Angular CLI: 8 years
-- PHP, Laravel, Codeigniter, Symphony, YII: 7 years
 - Node/Express.JS, Prisma, Ruby: 7 years
 - GraphQL, Apollo, Typescript, tRPC: 8 years
 - Python, Django: 8 years
